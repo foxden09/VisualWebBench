@@ -1,4 +1,4 @@
-model_path: gpt-4-vision-preview
+model_path: gpt-4o
 model_adapter: OpenAIAdapter
 
 web_caption_prompt: |

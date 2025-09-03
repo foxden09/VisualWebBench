@@ -1,4 +1,4 @@
-model_path: gemini-pro-vision
+model_path: gemini-1.5-flash
 model_adapter: GeminiAdapter
 
 web_caption_prompt: |
